@@ -3,7 +3,7 @@ import menu.*;
 /**
  * Tugas APL, testing double expresso
  * 
- * @author Aqil Fiqran Dzi'Ul Haq
+ * @author Alifia Widya
  * @since 4/12/2019
  * @version 1.0
  */
